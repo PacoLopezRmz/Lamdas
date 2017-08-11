@@ -2,7 +2,7 @@
 package com.netec.abstraclass;
 
 public class Lavadora extends LineaBlanca {
-
+// Prueba de subir cambios a GIT
     @Override
     public void tareaDomestica() {
         System.err.println("Lavar Ropa");

@@ -1,6 +1,6 @@
 
 package Cliente;
-
+// Prueba de subir cambios a GIT
 import PersonalExeption.MiExeption;
 import java.util.Date;
 import javax.swing.JOptionPane;
